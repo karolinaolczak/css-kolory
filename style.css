@@ -1,0 +1,13 @@
+     html, body {
+        background-color: rgb(240, 199, 230);
+    }
+
+    h1 {
+        color: red;
+    }
+    p {
+        color:brown
+    }
+    .p2 {
+        color: rgb(31, 31, 99)
+    }
